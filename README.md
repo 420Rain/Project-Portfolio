@@ -1,4 +1,4 @@
-## Rainier Dulatre
+# Rainier Dulatre
 
 ## About Me
 
