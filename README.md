@@ -1,4 +1,4 @@
-<span style="font-size: 0px;">Rainier Dulatre</span>
+## Rainier Dulatre
 
 ## About Me
 
