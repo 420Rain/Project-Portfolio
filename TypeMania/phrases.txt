@@ -1,0 +1,105 @@
+1
+easy
+10
+Time flies
+
+2
+easy
+10
+Love hurts
+
+3
+easy
+11
+Stay strong
+
+4
+easy
+13
+Golden sunset
+
+5
+easy
+10
+Live fully
+
+6
+easy
+17
+Live, laugh, love
+
+7
+easy
+18
+Forgive and Forget
+
+8
+easy
+16
+Dreams come True
+
+9
+medium
+43
+Tough times never last! But tough people do
+
+10
+medium
+40
+Actions speak louder than words ever can
+
+11
+medium
+33
+Time flies when you're having fun
+
+12
+medium
+36
+Life is a journey! Not a destination
+
+13
+medium
+38
+In the end, it's all about perspective
+
+14
+medium
+29
+Embrace change, grow stronger
+
+15
+medium
+33
+Forging dreams from broken pieces
+
+16
+hard
+55
+Learn from failures, persevere, Conquer your challenges
+
+17
+hard
+73
+The only limit to our realization of tomorrow will be our doubts of today
+
+18
+hard
+63
+Your time is limited, don't waste it living someone else's life
+
+19
+hard
+56
+Destiny's embrace guides us through life's winding paths
+
+20
+hard
+69
+Success is walking from failure to failure with no loss of enthusiasm
+
+21
+hard
+118
+swaaedfrgtdhyjuikolkjhgfdsaderfgtyujhgfnbdsadewfrttyujkhjmgbfsdergthyujhmngbfvadwefrthujhgfbdsedfrgtyujhggfdserftgujhj
+

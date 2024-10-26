@@ -1,0 +1,100 @@
+1
+easy
+10
+Time flieS
+
+2
+easy
+10
+lovE Hurts
+
+3
+easy
+11
+Stay stronG
+
+4
+easy
+13
+Golden Sunset
+
+5
+easy
+10
+livE fully
+
+6
+easy
+17
+LivE, laugH, Love
+
+7
+easy
+18
+forgivE AND Forget
+
+8
+easy
+16
+Dreams Come truE
+
+9
+medium
+43
+toUgh tImeS neVEr lasT! But touGh pEople dO
+
+10
+medium
+40
+ActiOns speAk louDer tHan Words evEr CaN
+
+11
+medium
+33
+tiMe Flies wHen You'Re HaVing fUn
+
+12
+medium
+36
+LIfe iS A jOurNey! nOt a deStInatioN
+
+13
+medium
+38
+in The eNd, It's All aBouT perspective
+
+14
+medium
+29
+EmbraCe chAnge, GroW sTronger
+
+15
+medium
+33
+fOrginG dreamS frOm broken PIEces
+
+16
+hard
+55
+Le@rn fr0m fa1lures, pers3ver3, C0nqu3r y0ur ch4lleng3$
+
+17
+hard
+73
+Th3 on1y lImIt t0 Our rE@lIz4t10n oF t0morr0w wI11 be oUr DouBt5 of t0d@y
+
+18
+hard
+63
+YoUr tIm3 1s liM1tEd, doN'T w@5tE iT l1vIng s0meOne 3lsE's liFe
+
+19
+hard
+56
+D3sTiNy's 3Mbr4Ce gUid3$ uS ThrOugH l1fe'5 WInd1nG p4th$
+
+20
+hard
+69
+SuCC35s Is wAlK1ng fR0m f@1lurE To FaIlur3 w1Th NO l0s$ of EntHus1@5m
+
