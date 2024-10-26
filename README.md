@@ -13,14 +13,14 @@ The projects in this portfolio are mainly from **individual coursework** but are
 ## Projects
 ### Arrows Express
 
-[Download Source Code]()
+[Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/Arrows-Express/Arrows-Express.zip)
 
 - Programming language used: C
 - This is a ticket booking program for a shuttle service that allows the user to book a trip from Manila to Laguna and vice versa. Its main options include booking and cancelling a trip, displaying the trip schedules, and updating the departure times.
 
 ### TypeMania
 
-[Download Source Code]()
+[Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/TypeMania/TypeMania.zip)
 
 - Programming language used: C
 - This program is a typing game wherein the user has to type and copy the exact phrase or sentence given by the program. Moreover, the user has 3 lives and game difficulties include easy, medium, and hard. The program's main options include playing the game and managing the records in the game (add, edit, delete, import, and export).
