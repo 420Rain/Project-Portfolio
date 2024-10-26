@@ -1,3 +1,5 @@
+# Rainier Dulatre
+
 ## About Me
 
 <img src="assets/display pic.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
