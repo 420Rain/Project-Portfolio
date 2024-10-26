@@ -11,14 +11,14 @@ Hi! I am Rainier Dulatre, a student at De La Salle University Manila. I am pursu
 The projects in this portfolio are mainly from **individual coursework** but are nonetheless applications of what I have learned in my programming journey so far. However, I look to expand this portfolio by also working on personal projects.
 
 ## Projects
-### Arrows Express
+<span style="color: darkred;">Arrows Express</span>
 
 [Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/Arrows-Express/Arrows-Express.zip)
 
 - Programming language used: C
 - This is a ticket booking program for a shuttle service that allows the user to book a trip from Manila to Laguna and vice versa. Its main options include booking and cancelling a trip, displaying the trip schedules, and updating the departure times.
 
-### TypeMania
+<span style="color: darkred;">TypeMania</span>
 
 [Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/TypeMania/TypeMania.zip)
 
