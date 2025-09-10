@@ -41,6 +41,13 @@ The projects in this portfolio are mainly from individual and group projects rel
 - Programming language used: C
 - This program performs graph traversals, specifically breadth first search and depth first search, on a given graph. It uses an adjacency matrix to store the graph's vertices and edges and uses a queue to help perform the traversals.
 
+### <span style="color: darkred;">Hotel Reservation System</span>
+
+[Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/Hotel%20Reservation%20System/Hotel%20Reservation%20System.zip)
+
+- Programming language used: Java
+- This program is a hotel reservation system with an interface that allows you to create hotels and book, edit, view, and delete room reservations.
+
 ### <span style="color: darkred;">ArrowServe</span>
 
 [ArrowServe](https://apdev-mco-l6d5.onrender.com/)
