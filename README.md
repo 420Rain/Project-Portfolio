@@ -32,7 +32,14 @@ The projects in this portfolio are mainly from individual and group projects rel
 [Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/Math%20Expression%20Converter%20and%20Evaluator/Math%20Expression%20Converter%20and%20Evaluator.zip)
 
 - Programming language used: C
-- This program is an infix expression to a postfix expression converter and evaluates the converted postfix expression to output a value. It utilizes a stack and a queue to perform the conversion and evaluation. It recognizes arithmetic, relational, and logical operators available in C.
+- This program is an infix expression to a postfix expression converter and evaluates the converted postfix expression to output a value. It utilizes a stack and a queue to help perform the conversion and evaluation. It recognizes arithmetic, relational, and logical operators available in C.
+
+### <span style="color: darkred;">Graph Traversal</span>
+
+[Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/Graph%20Traversals/Graph%20Traversals.zip)
+
+- Programming language used: C
+- This program performs graph traversals, specifically breadth first search and depth first search, on a given graph. It uses an adjacency matrix to store the graph's vertices and edges and uses a queue to help perform the traversals.
 
 ### <span style="color: darkred;">ArrowServe</span>
 
