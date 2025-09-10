@@ -1,0 +1,13 @@
+12
+Ithan Bruce Clark -1
+Clark Ithan Diana Hal -1
+Hal Diana Clark Rain -1
+Diana Bruce Hal Clark Tim Pat -1
+Bruce Ithan Diana Roe -1
+Roe Bruce -1
+Tim Diana -1
+Pat Diana Genrev -1
+Genrev Pat RJ -1
+Rain Hal RJ Shen -1
+RJ Rain Shen Genrev -1
+Shen RJ Rain -1
