@@ -27,6 +27,13 @@ The projects in this portfolio are mainly from individual and group projects rel
 - Programming language used: C
 - This program is a typing game wherein the user has to type and copy the exact phrase or sentence given by the program. Moreover, the user has 3 lives and game difficulties include easy, medium, and hard. The program's main options include playing the game and managing the records in the game (add, edit, delete, import, and export).
 
+### <span style="color: darkred;">Math Expression Converted and Evaluator</span>
+
+[Download Source Code](https://github.com/420Rain/Project-Portfolio/raw/main/Math%20Expression%20Converter%20and%20Evaluator/Math%20Expression%20Converter%20and%20Evaluator.zip)
+
+- Programming language used: C
+- This program is an infix expression to a postfix expression converter and evaluates the converted postfix expression to output a value. It utilizes a stack and a queue to perform the conversion and evaluation. It recognizes arithmetic, relational, and logical operators available in C.
+
 ### <span style="color: darkred;">ArrowServe</span>
 
 [ArrowServe](https://apdev-mco-l6d5.onrender.com/)
